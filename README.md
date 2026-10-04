@@ -1,91 +1,94 @@
-# Hi, I'm Amit Kumar 👋
+# Hi, I'm Amit Kumat 👋
 
-[Optional tagline: "Building cool things with code and coffee ☕"]
-
-I’m a [profession] passionate about [your focus area]. I enjoy creating impactful digital products, learning new technologies, and collaborating on meaningful projects.
+Software Developer passionate about building clean, scalable, and user-friendly digital solutions. I enjoy solving real-world problems through code, learning new technologies, and creating products that make an impact.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Developer+%7C+Problem+Solver+%7C+Creator;Building+ideas+into+products;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&lines=Software+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 ## About Me
 
-- 💼 Profession: [Your role / job title]
-- 🌍 Based in: [City, Country]
-- 🔭 Currently working on: [Current project or focus]
-- 🌱 Learning: [Skills or technologies you're exploring]
-- 💬 Ask me about: [Your areas of expertise]
-- ⚡ Fun fact: [Something personal and memorable]
+- 💻 Software developer focused on building efficient and maintainable applications
+- 🌱 Constantly learning and improving in modern web technologies and software engineering
+- 🔭 Interested in full-stack development, APIs, databases, and scalable systems
+- ⚡ I enjoy turning ideas into practical solutions using code
+- 📫 Reach me at: amitkumar2448@gmail.com
 
 ## Skills
 
 ### Languages
-- JavaScript / TypeScript
+- JavaScript
+- TypeScript
 - Python
-- Java / C#
+- Java
 - SQL
-- HTML / CSS
+- HTML
+- CSS
 
-### Frameworks & Tools
+### Frontend
 - React
-- Node.js
-- Express
 - Next.js
-- Git / GitHub
-- Docker
-- PostgreSQL
 - Tailwind CSS
+- Bootstrap
+- Responsive UI Development
 
-### Interests
-- Web Development
-- Software Architecture
-- AI & Automation
-- Product Design
-- Open Source Contributions
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication
+- Database Design
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Docker
+- Postman
+- Linux / Command Line
 
 ## Featured Projects
 
-### [Project 1 Name]
-A short description of what it does and why it matters.
+### Project 1
+[Project Name]
 
-- Technologies: [Tech stack]
+A short description of the app, the problem it solves, and the value it provides.
+
+- Tech Stack: [React / Node.js / Express / MongoDB]
 - Highlights:
-  - [Feature 1]
-  - [Feature 2]
-  - [Feature 3]
-- Repository: [Link]
-- Live Demo: [Link]
+  - Feature one
+  - Feature two
+  - Feature three
+- Repository: [GitHub Link]
+- Live Demo: [Optional Demo Link]
 
-### [Project 2 Name]
-Another concise project description with the core value.
+### Project 2
+[Project Name]
 
-- Technologies: [Tech stack]
+Another project summary describing your work and the technologies used.
+
+- Tech Stack: [Your stack]
 - Highlights:
-  - [Feature 1]
-  - [Feature 2]
-  - [Feature 3]
-- Repository: [Link]
-- Live Demo: [Link]
+  - Feature one
+  - Feature two
+  - Feature three
+- Repository: [GitHub Link]
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## Connect With Me
 
-- 🌐 Portfolio: [yourportfolio.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
-- 🐦 Twitter / X: [@yourhandle]
-- 📫 Email: [your@email.com]
+- 📧 Email: amitkumar2448@gmail.com
 
-## Contribution Philosophy
+## My Philosophy
 
-I believe in building clean, useful, and human-centered software. I enjoy solving real problems, collaborating with others, and creating tools that make life easier for people.
+I believe great software is not just about solving problems, but about creating reliable, user-friendly experiences that genuinely help people. I enjoy learning continuously, writing clean code, and building tools that are both useful and maintainable.
 
-> “Code is not just about solving problems — it’s about creating experiences.”
+> “Build things that matter, improve every day, and never stop learning.”
