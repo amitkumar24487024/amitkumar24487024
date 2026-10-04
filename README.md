@@ -1,4 +1,4 @@
-# Hi, I'm Amit Kumat 👋
+# Hi, I'm Amit Kumar 👋
 
 Software Developer passionate about building clean, scalable, and user-friendly digital solutions. I enjoy solving real-world problems through code, learning new technologies, and creating products that make an impact.
 
@@ -17,24 +17,15 @@ Software Developer passionate about building clean, scalable, and user-friendly 
 ## Skills
 
 ### Languages
-- JavaScript
-- TypeScript
-- Python
 - Java
 - SQL
 - HTML
 - CSS
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-- Bootstrap
-- Responsive UI Development
 
 ### Backend
-- Node.js
-- Express.js
+- SpringBoot
+- Microservices
 - REST APIs
 - Authentication
 - Database Design
@@ -48,39 +39,15 @@ Software Developer passionate about building clean, scalable, and user-friendly 
 
 ## Featured Projects
 
-### Project 1
-[Project Name]
-
-A short description of the app, the problem it solves, and the value it provides.
-
-- Tech Stack: [React / Node.js / Express / MongoDB]
-- Highlights:
-  - Feature one
-  - Feature two
-  - Feature three
-- Repository: [GitHub Link]
-- Live Demo: [Optional Demo Link]
-
-### Project 2
-[Project Name]
-
-Another project summary describing your work and the technologies used.
-
-- Tech Stack: [Your stack]
-- Highlights:
-  - Feature one
-  - Feature two
-  - Feature three
-- Repository: [GitHub Link]
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amitkumar24487024&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar24487024&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## Connect With Me
